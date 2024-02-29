@@ -1,0 +1,2 @@
+# Store-sales-prediction-using-Time-series-and-Maching-Learning-Models
+In this project, the retail store sales have been visualized and analyzed in the form of Time Series. This Extrapolation helped in the generation of ML Models such as XG bOOST, Random Forest and Linear Regression. XG Boost presented the least Mean Squared Error. Therefore, it is consider for the final predictive modelling for the optimized output
